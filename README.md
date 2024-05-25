@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is an example
+Cohort 2024
