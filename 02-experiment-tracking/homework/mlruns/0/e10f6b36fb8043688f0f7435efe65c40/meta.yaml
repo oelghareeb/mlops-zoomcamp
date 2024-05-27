@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/e10f6b36fb8043688f0f7435efe65c40/artifacts
+end_time: 1716830307745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e10f6b36fb8043688f0f7435efe65c40
+run_name: welcoming-kit-342
+run_uuid: e10f6b36fb8043688f0f7435efe65c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716830283529
+status: 3
+tags: []
+user_id: name

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/e2df1b1824ff4dea926ecadbdf5fcdf0/artifacts
+end_time: 1716819615355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2df1b1824ff4dea926ecadbdf5fcdf0
+run_name: unruly-hen-839
+run_uuid: e2df1b1824ff4dea926ecadbdf5fcdf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716819591573
+status: 3
+tags: []
+user_id: oelghareeb

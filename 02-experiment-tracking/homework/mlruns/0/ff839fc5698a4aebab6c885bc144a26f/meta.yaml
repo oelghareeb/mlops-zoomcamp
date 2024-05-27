@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/ff839fc5698a4aebab6c885bc144a26f/artifacts
+deleted_time: 1716822401819
+end_time: 1716820617417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff839fc5698a4aebab6c885bc144a26f
+run_name: bustling-ant-623
+run_uuid: ff839fc5698a4aebab6c885bc144a26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716820593820
+status: 3
+tags: []
+user_id: oelghareeb

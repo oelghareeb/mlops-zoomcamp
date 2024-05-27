@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/8f6561b0ebc245fe8b12a58013078f32/artifacts
+deleted_time: 1716819634271
+end_time: 1716819575898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f6561b0ebc245fe8b12a58013078f32
+run_name: chill-slug-468
+run_uuid: 8f6561b0ebc245fe8b12a58013078f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716819559302
+status: 4
+tags: []
+user_id: oelghareeb

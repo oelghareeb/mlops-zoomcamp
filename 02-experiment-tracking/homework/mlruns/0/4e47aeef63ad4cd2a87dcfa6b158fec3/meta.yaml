@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/4e47aeef63ad4cd2a87dcfa6b158fec3/artifacts
+deleted_time: 1716822401813
+end_time: 1716820207780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4e47aeef63ad4cd2a87dcfa6b158fec3
+run_name: hilarious-midge-291
+run_uuid: 4e47aeef63ad4cd2a87dcfa6b158fec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716820184313
+status: 3
+tags: []
+user_id: oelghareeb

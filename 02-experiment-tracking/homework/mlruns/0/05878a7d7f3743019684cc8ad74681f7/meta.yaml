@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/05878a7d7f3743019684cc8ad74681f7/artifacts
+end_time: 1716820056664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05878a7d7f3743019684cc8ad74681f7
+run_name: respected-snipe-55
+run_uuid: 05878a7d7f3743019684cc8ad74681f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716820033037
+status: 3
+tags: []
+user_id: oelghareeb

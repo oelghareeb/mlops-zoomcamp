@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oelghareeb/Downloads/trip_data/mlruns/0/a23e2ddbb18c48c8a390e4b8f883c57d/artifacts
+end_time: 1716819142960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23e2ddbb18c48c8a390e4b8f883c57d
+run_name: fortunate-panda-911
+run_uuid: a23e2ddbb18c48c8a390e4b8f883c57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716819119477
+status: 3
+tags: []
+user_id: oelghareeb
