@@ -1,0 +1,28 @@
+version: '3.8'  
+
+services:
+  localstack:
+    image: localstack/localstack:latest
+    container_name: localstack
+    ports:
+      - "4566:4566"
+      - "4571:4571"
+    environment:
+      - SERVICES=s3
+      - DEBUG=1
+      - AWS_ACCESS_KEY_ID=dummy
+      - AWS_SECRET_ACCESS_KEY=dummy
+    volumes:
+      - "./localstack:/var/lib/localstack"
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - INPUT_FILE_PATTERN
+      - OUTPUT_FILE_PATTERN
+      - S3_ENDPOINT_URL
+    depends_on:
+      - localstack
+    network_mode: "host"
